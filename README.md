@@ -430,7 +430,7 @@ Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (E
 
   - Keyword: _`Security`_, _`Auditation`_
 
-- 🎓 [Understanding Security Issues in the NFT Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3548606.3560707). Dipanjan Das (University of California; Santa Barbara); Priyanka Bose (University of California; Santa Barbara); Nicola Ruaro (University of California; Santa Barbara); Christopher Kruegel (University of California; Santa Barbara); Giovanni Vigna (University of California; Santa Barbara). CCS'22.
+- 🎓 [Understanding Security Issues in the NFT Ecosystem](https://arxiv.org/pdf/2111.08893.pdf). Dipanjan Das (University of California; Santa Barbara); Priyanka Bose (University of California; Santa Barbara); Nicola Ruaro (University of California; Santa Barbara); Christopher Kruegel (University of California; Santa Barbara); Giovanni Vigna (University of California; Santa Barbara). CCS'22.
 
   - Keyword: _`Security`_
 
