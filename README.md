@@ -255,6 +255,21 @@ Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad, The Hebrew University of 
 
 ## S&P (A)
 
+- 🎓 [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/abs/2208.13035).
+Liyi Zhou ( Imperial College London ), Xihan Xiong ( Imperial College London ), Jens Ernstberger ( Technical University of Munich ), Stefanos Chaliasos ( Imperial College London ), Zhipeng Wang ( Imperial College London ), Ye Wang ( University of Macau ), Kaihua Qin ( Imperial College London ), Roger Wattenhofer ( ETH Zurich ), Dawn Song ( UC Berkeley ), Arthur Gervais ( University College London ). S&P'23.
+
+  - Keyword: _`Smart Contracts`_, _`Attacks`_ 
+
+- 🎓 [Optimistic Fast Confirmation While Tolerating Malicious Majority in Blockchains](https://dl.comp.nus.edu.sg/server/api/core/bitstreams/d41134ed-03e5-4a7f-9fb3-d150bcff7257/content).
+Ruomu Hou ( National University of Singapore ), Haifeng Yu ( National University of Singapore ). S&P'23.
+
+  - Keyword: _`Consensus`_
+
+- 🎓 [Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/SP23-Tyr.pdf).
+Yuanliang Chen ( Tsinghua University ), Fuchen Ma ( Tsinghua University ), Yuanhang Zhou ( Tsinghua University ), Yu Jiang ( Tsinghua University ), Ting Chen ( University of Electronic Science and Technology of China ), Jiaguang Sun ( Tsinghua University ). S&P'23.
+
+  - Keyword: _`Consensus`_
+
 - 🎓 [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://arxiv.org/pdf/2109.04347.pdf).
 Kushal Babel (Cornell Tech), Philip Daian (Cornell Tech), Mahimna Kelkar (Cornell Tech), Ari Juels (Cornell Tech). S&P'23.
 
