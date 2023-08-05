@@ -255,10 +255,20 @@ Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad, The Hebrew University of 
 
 ## S&P (A)
 
+- 🎓 Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks.
+Muhammad Saad ( PayPal ), David Mohaisen ( University of Central Florida ). S&P'23.
+
+  - Keyword: _`Attacks`_
+
+- 🎓 [Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities](https://arxiv.org/pdf/2207.08392).
+Ertem Nusret Tas ( Stanford University ), David Tse ( Stanford University ), Fangyu Gai ( BabylonChain Inc. ), Sreeram Kannan ( University of Washington, Seattle ), Mohammad Ali Maddah-Ali ( University of Minnesota ), Fisher Yu ( BabylonChain Inc. ). S&P'23.
+
+  - Keyword: _`Consensus`_
+
 - 🎓 [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/abs/2208.13035).
 Liyi Zhou ( Imperial College London ), Xihan Xiong ( Imperial College London ), Jens Ernstberger ( Technical University of Munich ), Stefanos Chaliasos ( Imperial College London ), Zhipeng Wang ( Imperial College London ), Ye Wang ( University of Macau ), Kaihua Qin ( Imperial College London ), Roger Wattenhofer ( ETH Zurich ), Dawn Song ( UC Berkeley ), Arthur Gervais ( University College London ). S&P'23.
 
-  - Keyword: _`Smart Contracts`_, _`Attacks`_ 
+  - Keyword: _`Smart Contracts`_, _`Attacks`_
 
 - 🎓 [Optimistic Fast Confirmation While Tolerating Malicious Majority in Blockchains](https://dl.comp.nus.edu.sg/server/api/core/bitstreams/d41134ed-03e5-4a7f-9fb3-d150bcff7257/content).
 Ruomu Hou ( National University of Singapore ), Haifeng Yu ( National University of Singapore ). S&P'23.
@@ -312,6 +322,7 @@ Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (E
 
 - 🎓 [Ebb-and-Flow Protocols: A Resolution of the Availability-Finality Dilemma](https://arxiv.org/pdf/2009.04987.pdf). Joachim Neu (Stanford University), Ertem Nusret Tas (Stanford University), David Tse (Stanford University). S&P'21.
   - Keyword: _`Consensus`_
+
 - 🎓 [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2009.14021.pdf). Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Christof Ferreira Torres (University of Luxembourg), Duc V Le (Purdue University), Arthur Gervais (Imperial College London), Tyler Crain (University of Sydney), Christopher Natoli (University of Sydney), Vincent Gramoli (University of Sydney and EPFL). S&P'21.
 
   - Keyword: _`DEX`_
