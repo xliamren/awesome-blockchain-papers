@@ -254,7 +254,14 @@ Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad, The Hebrew University of 
   - Keyword: _`Marketplaces`_
 
 ## S&P (A)
-
+- 🎓 [BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts](https://eprint.iacr.org/2022/1735.pdf).Qin X, Pan S, Mirzaei A, et al. S&P'23.
+  
+  - Keyword: _`Blind Signature`_, _`payment channel`_
+    
+- 🎓 [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://eprint.iacr.org/2022/175.pdf).R. Bar-Zur, A. Abu-Hanna, I. Eyal and A. Tamar. S&P'23.
+  
+  - Keyword: _`mining`_
+    
 - 🎓 Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks.
 Muhammad Saad ( PayPal ), David Mohaisen ( University of Central Florida ). S&P'23.
 
