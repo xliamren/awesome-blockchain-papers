@@ -21,7 +21,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 > Conference
 
-- [USENIX Security (Usenix Security Symposium)](#usenix-security-a) <= 2022 Winter
+- [USENIX Security (Usenix Security Symposium)](#usenix-security-a) <= 2023 Fall
 - [S&P (IEEE Security and Privacy)](#sp-a) <= 2023 First Cycle
 - [CCS (ACM Conference on Computer and Communications Security)](#ccs-a) <= 2022
 - [NDSS (Network and Distributed System Security)](#ndss-a) <= 2023
@@ -114,6 +114,45 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ---
 
 ## USENIX Security (A)
+- 🎓 [Oops..! I Glitched It Again! How to Multi-Glitch the Glitching-Protections on ARM TrustZone-M](https://www.usenix.org/system/files/usenixsecurity23-sass.pdf). Xhani Marvin Saß, Richard Mitev, and Ahmad-Reza Sadeghi, *Technical University of Darmstadt*. USENIX Security'23.
+  
+  - Keyword: _`TEE`_, _`attacks`_
+    
+- 🎓 [Controlled Data Races in Enclaves: Attacks and Detection](https://www.usenix.org/system/files/usenixsecurity23-chen-sanchuan.pdf). Sanchuan Chen, *Fordham University;* Zhiqiang Lin, *The Ohio State University;* Yinqian Zhang, *Southern University of Science and Technology*. USENIX Security'23.
+  
+  - Keyword: _`TEE`_, _`attacks`_
+ 
+- 🎓 [VeriZexe: Decentralized Private Computation with Universal Setup](https://www.usenix.org/system/files/usenixsecurity23-xiong.pdf). Alex Luoyuan Xiong, *Espresso Systems, National University of Singapore;* Binyi Chen and Zhenfei Zhang, *Espresso Systems;* Benedikt Bünz, *Espresso Systems, Stanford University;* Ben Fisch, *Espresso Systems, Yale University;* Fernando Krell and Philippe Camacho, *Espresso Systems*. USENIX Security'23.
+  
+  - Keyword: _`system`_, _`layer-2`_
+    
+- 🎓 [Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://www.usenix.org/system/files/usenixsecurity23-cernera.pdf). Federico Cernera, Massimo La Morgia, Alessandro Mei, and Francesco Sassi, *Sapienza University of Rome*. USENIX Security'23.
+  
+  - Keyword: _`attacks`_, _`survey`_
+    
+- 🎓 [The Blockchain Imitation Game](https://www.usenix.org/system/files/usenixsecurity23-qin.pdf). Kaihua Qin, *Imperial College London, RDI;* Stefanos Chaliasos, *Imperial College London;* Liyi Zhou, *Imperial College London, RDI;* Benjamin Livshits, *Imperial College London;* Dawn Song, *UC Berkeley, RDI;* Arthur Gervais, *University College London, RDI*. USENIX Security'23.
+  
+  - Keyword: _`attacks`_
+    
+- 🎓 [Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://www.usenix.org/system/files/usenixsecurity23-bodell.pdf). William E Bodell III, Sajad Meisami, and Yue Duan, *Illinois Institute of Technology*. USENIX Security'23.
+  
+  - Keyword: _`smart contract`_, _`survey`_
+    
+- 🎓 [Panda: Security Analysis of Algorand Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-sun.pdf). Zhiyuan Sun, *The Hong Kong Polytechnic University and Southern University of Science and Technology;* Xiapu Luo, *The Hong Kong Polytechnic University;* Yinqian Zhang, *Southern University of Science and Technology*. USENIX Security'23.
+  
+  - Keyword: _`smart contract`_, _`Auditation`_
+    
+- 🎓 [ACon^2: Adaptive Conformal Consensus for Provable Blockchain Oracles](https://www.usenix.org/system/files/usenixsecurity23-park.pdf). Sangdon Park, *Georgia Institute of Technology;* Osbert Bastani, *University of Pennsylvania;* Taesoo Kim, *Georgia Institute of Technology*. USENIX Security'23.
+  
+  - Keyword: _`consensus`_
+    
+- 🎓 [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://www.usenix.org/system/files/usenixsecurity23-mclaughlin.pdf). Robert McLaughlin, Christopher Kruegel, and Giovanni Vigna, *University of California, Santa Barbara*. USENIX Security'23.
+  
+  - Keyword: _`attacks`_
+    
+- 🎓 [CipherH: Automated Detection of Ciphertext Side-channel Vulnerabilities in Cryptographic Implementations](https://www.usenix.org/system/files/usenixsecurity23-deng-sen.pdf). Sen Deng, *Southern University of Science and Technology;* Mengyuan Li, *The Ohio State University;* Yining Tang, *Southern University of Science and Technology;* Shuai Wang, *Hong Kong University of Science and Technology;* Shoumeng Yan, *The Ant Group;* Yinqian Zhang, *Southern University of Science and Technology*. USENIX Security'23.
+  
+  - Keyword: _`TEE`_, _`Auditation`_
 
 - 🎓 [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/system/files/sec22-kappos.pdf). George Kappos and Haaroon Yousaf, University College London and IC3; Rainer Stütz and Sofia Rollet, AIT - Austrian Institute of Technology; Bernhard Haslhofer, Complexity Science Hub Vienna; Sarah Meiklejohn, University College London and IC3. USENIX Security'22.
 
