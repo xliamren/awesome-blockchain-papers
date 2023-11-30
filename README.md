@@ -9,10 +9,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
-- **Papers of CCS '22 added**
+- **Papers of CCS '23 added**
 - **Papers of NDSS '23 added**
 - **Papers of S&P '23 first cycle added**
-- **Papers of INFOCOM '22 added**
+- **Papers of INFOCOM '23 added**
 - **Papers of SOSP '21 added**
 
 ## Conference Information
@@ -27,7 +27,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [NDSS (Network and Distributed System Security)](#ndss-a) <= 2023
 - [CRYPTO (International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
 - [EUROCRYPT (European Cryptology Conference)](#eurocrypt-a) <= 2021
-- [INFOCOM (IEEE International Conference on Computer Communications)](#-a) <= 2022
+- [INFOCOM (IEEE International Conference on Computer Communications)](#-a) <= 2023
 - [SOSP (ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2021
 - [NSDI (USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
 - [VLDB (International Conference on Very Large Data Bases)](#vldb-a) <= 2020
@@ -1101,6 +1101,26 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
   - Keyword: _`Wallets`_, _`TS`_
 
 ## INFOCOM (A)
+
+- 🎓 [Prophet: Conflict-Free Sharding Blockchain via Byzantine-Tolerant Deterministic Ordering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228939). Zicong Hong (The Hong Kong Polytechnic University, China); Song Guo and Enyuan Zhou (The Hong Kong Polytechnic University, Hong Kong); Jianting Zhang (Purdue University, USA); Chen Wuhui (Sun Yat-sen University, China); Jinwen Liang and Jie Zhang (The Hong Kong Polytechnic University, Hong Kong); Albert Zomaya (The University of Sydney, Australia). INFOCOM'23
+  
+  - Keyword: _`sharding`_, _`BFT`_
+
+- 🎓 [CoChain: High Concurrency Blockchain Sharding via Consensus on Consensus](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228892). Mingzhe Li (Hong Kong University of Science and Technology, Hong Kong); You Lin (Southern University of Science and Technology, China); Jin Zhang (Southern University of Science and Technology, USA); Wei Wang (Hong Kong University of Science and Technology, Hong Kong). INFOCOM'23
+  
+  - Keyword: _`sharding`_, _`concurrency`_
+
+- 🎓 [Latency-First Smart Contract: Overclock the Blockchain for a while](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228992). Huayi Qi, Minghui Xu and Xiuzhen Cheng (Shandong University, China); Weifeng Lv (Beijing University of Aeronautics and Astronautics, China). INFOCOM'23
+  
+  - Keyword: _`scalability`_, _`concurrency`_
+
+- 🎓 [Mercury: Fast Transaction Broadcast in High Performance Blockchain Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228972). Mingxun Zhou (Carnegie Mellon University, USA); Yilin Han (Shanghai Tree-Graph Blockchain Research Institute, China); Liyi Zeng (Tsinghua University, China); Peilun Li (Shanghai Tree-Graph Blockchain Research Institute, China); Fan Long (University of Toronto, Canada); Dong Zhou (IMO Ventures, China); Ivan Beschastnikh (University of British Columbia, Canada); Ming Wu (Shanghai Tree-Graph Blockchain Research Institute, China). INFOCOM'23
+  
+  - Keyword: _`scalability`_
+
+- 🎓 [A Decentralized Truth Discovery Approach to the Blockchain Oracle Problem](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10229019). Yang Xiao (University of Kentucky, USA); Ning Zhang (Washington University in St. Louis, USA); Wenjing Lou and Thomas Hou (Virginia Tech, USA). INFOCOM'23
+  
+  - Keyword: _`security`_, _`oracle`_
 
 - 🎓 [BrokerChain: A Cross-Shard Blockchain Protocol for Account/Balance-based State Sharding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796859). H. Huang *et al*. INFOCOM'22
 
