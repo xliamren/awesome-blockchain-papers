@@ -13,7 +13,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - **Papers of NDSS '23 added**
 - **Papers of S&P '23 first cycle added**
 - **Papers of INFOCOM '23 added**
-- **Papers of SOSP '21 added**
+- **Papers of SOSP '23 added**
 
 ## Conference Information
 
@@ -28,7 +28,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [CRYPTO (International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
 - [EUROCRYPT (European Cryptology Conference)](#eurocrypt-a) <= 2021
 - [INFOCOM (IEEE International Conference on Computer Communications)](#-a) <= 2023
-- [SOSP (ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2021
+- [SOSP (ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2023
 - [NSDI (USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
 - [VLDB (International Conference on Very Large Data Bases)](#vldb-a) <= 2020
 - [OSDI (USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2021
@@ -1198,6 +1198,14 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
   - Keyword: _`Transaction`_
 
 ## SOSP (A)
+
+- 🎓 [QuePaxa: Escaping the tyranny of timeouts in consensus](https://dl.acm.org/doi/pdf/10.1145/3600006.3613150). Pasindu Tennage (Ecole Polytechnique Federale de Lausanne (EPFL)), Cristina Basescu (Ecole Polytechnique Federale de Lausanne (EPFL)), Lefteris Kokoris-Kogias (IST Austria, Mysten Labs), Ewa Syta (Trinity College), Philipp Jovanovic (UCL), Vero Estrada-Galinanes (Ecole Polytechnique Federale de Lausanne (EPFL)) and Bryan Ford (Ecole Polytechnique Federale de Lausanne (EPFL)). SOSP'23
+  
+  - Keyword: _`leader-based consensus`_
+    
+- 🎓 [Flexible Advancement in Asynchronous BFT Consensus](https://doi.org/10.1145/3600006.3613164). Shengyun Liu (Shanghai Jiao Tong University), Wenbo Xu (Blockchain Platform Division, Ant Group), Chen Shan (Blockchain Platform Division, Ant Group), Xiaofeng Yan (Blockchain Platform Division, Ant Group), Tianjing Xu (Blockchain Platform Division, Ant Group), Bo Wang (Blockchain Platform Division, Ant Group), Lei Fan (Shanghai Jiao Tong University), Fuxi Deng (Blockchain Platform Division, Ant Group), Ying Yan (Blockchain Platform Division, Ant Group) and Hui Zhang (Blockchain Platform Division, Ant Group). SOSP'23
+  
+  - Keyword: _`BFT`_
 
 - 🎓 [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf). Yang Chen (Microsoft Research), Zhongxin Guo (Microsoft Research), Runhuai Li (Zhejiang University and Microsoft Research), Shuo Chen (Microsoft Research), Lidong Zhou (Microsoft Research), Yajin Zhou (Zhejiang University), Xian Zhang (Microsoft Research). SOSP'21
 
