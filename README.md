@@ -9,6 +9,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
+
 - **Papers of CCS '23 added**
 - **Papers of NDSS '23 added**
 - **Papers of S&P '23 first cycle added**
@@ -1240,6 +1241,10 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 ## NSDI (A)
 
+- 🎓 [DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks](https://www.usenix.org/system/files/nsdi22-paper-yang_lei.pdf). Lei Yang, Seo Jin Park, and Mohammad Alizadeh, MIT CSAIL; Sreeram Kannan, University of Washington; David Tse, Stanford University NSDI'22
+
+  - Keyword: _`Consensus`_, **DispersedLedger**
+
 - 🎓 [Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf). Vibhaalakshmi Sivaraman, Yuncong Hu, Sam Kumar, and Raluca Ada Popa, University of California, Berkeley NSDI'20
 
   - Keyword: _`Data-Sharing`_, **Ghoster**
@@ -1260,6 +1265,38 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
   - Keyword: _`Consensus-PoW`_
 
 ## VLDB (A)
+
+- 🎓 [Scalable Byzantine Fault Tolerance via Partial Decentralization](https://www.vldb.org/pvldb/vol15/p1739-arun.pdf). Balaji Arun (Virginia Tech)*, Binoy Ravindran (Virginia Tech). VLDB'22       
+  
+  - Keyword: _`BFT`_, **DQBFT**
+
+- 🎓 [NeuChain: A Fast Permissioned Blockchain System with Deterministic Ordering](https://www.vldb.org/pvldb/vol15/p2585-zhang.pdf). Zeshun Peng (Northeastern University, China), Yanfeng Zhang (Northeastern University)*, Qian Xu (Northeastern University), Haixu Liu (Northeastern University), Yuxiao Gao (ä¸åå¤§å­¦), Xiaohua Li (Northeastern University), Ge Yu (Northeast University). VLDB'22           
+  
+  - Keyword: _`System`_, **NeuChain**
+
+- 🎓 [Qanaat: A Scalable Multi-Enterprise Permissioned Blockchain System with Confidentiality Guarantees](https://www.vldb.org/pvldb/vol15/p2839-amiri.pdf). Mohammad Javad Amiri (University of Pennsylvania)*, Boon Thau Loo (Univ. of Pennsylvania), Divy Agrawal (University of California, Santa Barbara), Amr El Abbadi (UC Santa Barbara). VLDB'22                
+  
+  - Keyword: _`System`_, _`Confidentiality`_, **Qanaat**
+
+- 🎓 [Decentralized Crowdsourcing for Human Intelligence Tasks with Efficient On-Chain Cost](https://www.vldb.org/pvldb/vol15/p1875-shin.pdf). Yihuai Liang (Inha University), Yan Li (Inha University), Byeong-seok Shin (Inha University)*. VLDB'22                     
+  
+  - Keyword: _`Application`_, _`Human Intelligence Tasks(HIT)`_
+
+- 🎓 [Hybrid Blockchain Database Systems: Design and Performance](https://www.vldb.org/pvldb/vol15/p1092-loghin.pdf). Zerui Ge (National University of Singapore), Dumitrel Loghin (National University of Singapore)*, Beng Chin Ooi (NUS), Pingcheng Ruan (National University of Singapore), Tianwen Wang (National University of Singapore). VLDB'22                          
+  
+   - Keyword: _`System`_, _`Performance`_
+
+- 🎓 [ByShard: Sharding in a Byzantine Environment](http://vldb.org/pvldb/vol14/p2230-hellings.pdf). Jelle Hellings (University of California Davis), Mohammad Sadoghi (University of California, Davis). VLDB'21
+
+  - Keyword: _`Sharding`_, **ByShard**
+
+- 🎓 [CALYPSO: Private Data Management for Decentralized Ledgers](http://vldb.org/pvldb/vol14/p586-kogias.pdf). Eleftherios Kokoris Kogias (IST Austria), Enis Ceyhun Alp (EPFL), Linus Gasser (EPFL), Philipp Jovanovic (UCL), Ewa Syta (Trinity College), Bryan Ford (EPFL). VLDB'21    
+  
+  - Keyword: _`Privacy`_, _`Data Management`_, **CALYPSO**
+
+- 🎓 [SlimChain: Scaling Blockchain Transactions through Off-Chain Storage and Parallel Processing](http://vldb.org/pvldb/vol14/p2314-xu.pdf). Cheng Xu (Hong Kong Baptist University), Ce Zhang (Hong Kong Baptist University), Jianliang Xu (Hong Kong Baptist University), Jian Pei (Simon Fraser University). VLDB'21   
+  
+  - Keyword: _`Storage`_, _`Parallel Processing`_, _`TEE`_, **SlimChain**
 
 - 🎓 [Scalable, Resilient and Configurable Permissioned Blockchain Fabric](http://www.vldb.org/pvldb/vol13/p2893-rahnama.pdf), Sajjad Rahnama (University of California Davis); Suyash Gupta (University of California Davis); Thamir Qadah (Purdue University); Jelle Hellings (University of California Davis); Mohammad Sadoghi (University of California, Davis). VLDB'20
 
@@ -1286,9 +1323,9 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 ## OSDI (A)
 
-- 🎓 [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing.](https://www.usenix.org/system/files/osdi21-yang.pdf) Youngseok Yang, _Seoul National University;_ Taesoo Kim, _Georgia Institute of Technology;_ Byung-Gon Chun, _Seoul National University and FriendliAI_
+- 🎓 [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing.](https://www.usenix.org/system/files/osdi21-yang.pdf) Youngseok Yang, _Seoul National University;_ Taesoo Kim, _Georgia Institute of Technology;_ Byung-Gon Chun, _Seoul National University and FriendliAI_ OSDI'21
   - Keyword: _`Security`_, _`Ethereum`_
-- 🎓 [Bringing Decentralized Search to Decentralized Services](https://www.usenix.org/system/files/osdi21-li.pdf). Mingyu Li, Jinhao Zhu, and Tianxu Zhang, _Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;_ Cheng Tan, _Northeastern University;_ Yubin Xia, _Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;_ Sebastian Angel, _University of Pennsylvania;_ Haibo Chen, _Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China_
+- 🎓 [Bringing Decentralized Search to Decentralized Services](https://www.usenix.org/system/files/osdi21-li.pdf). Mingyu Li, Jinhao Zhu, and Tianxu Zhang, _Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;_ Cheng Tan, _Northeastern University;_ Yubin Xia, _Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;_ Sebastian Angel, _University of Pennsylvania;_ Haibo Chen, _Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China_ OSDI'21
   - Keyword: _`TEE`_, _`Decentralized Application`_
 - 🎓 [Virtual Consensus in Delos](https://maheshba.bitbucket.io/papers/delos-osdi2020.pdf). Mahesh Balakrishnan, Jason Flinn, Chen Shen, Mihir Dharamshi, Ahmed Jafri, Xiao Shi, Santosh Ghosh, Hazem Hassan, Aaryaman Sagar, Rhed Shi, Jingming Liu, Filip Gruszczynski, Xianan Zhang, Huy Hoang, Ahmed Yossef, Francois Richard, and Yee Jiun Song, Facebook, Inc. OSDI'20
   - Keyword: _`Scalability`_, _`Consensus`_
@@ -1313,6 +1350,48 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 ## SIGMOD (A)
 
+- 🎓 [LedgerView: Access-Control Views on Hyperledger Fabric](https://dl.acm.org/doi/pdf/10.1145/3514221.3526046). Pingcheng Ruan (National University of Singapore), Yaron Kanza (AT&T Chief Data Office, Bedminster, NJ, USA),  Bengchin Ooi National University of Singapore, Singapore, Singapore, and Divesh Srivastava (AT&T Chief Data Office, Bedminster, NJ, USA). SIGMOD'22                 
+  
+   - Keyword: _`System`_, **LedgerView**
+   - Type: _`Industrial`_
+  
+- 🎓 [P^2B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics](https://dl.acm.org/doi/abs/10.1145/3448016.3459237). Zhe PENG (Hong Kong Baptist University)*; Cheng Xu (Hong Kong Baptist University); Haixin Wang (HKBU); Jinbin Huang (Hong Kong Baptist University); Jianliang Xu (Hong Kong Baptist University); Xiaowen Chu (Hong Kong Baptist University). SIGMOD'21    
+  
+   - Keyword: _`Applications`_
+
+- 🎓 [DIV: Resolving the Dynamic Issues of Zero-knowledge Set Membership Proof in the Blockchain](https://dl.acm.org/doi/10.1145/3448016.3457248). Zihuan XU (Hong Kong University of Science and Technology)*; Lei Chen (Hong Kong University of Science and Technology). SIGMOD'21         
+  
+   - Keyword: _`ZKP`_, **DIV**
+
+- 🎓 [Blockchains vs. Distributed Databases: Dichotomy and Fusion](https://arxiv.org/pdf/1910.01310.pdf). Pingcheng Ruan (National University of Singapore); Tien Tuan Anh Dinh (Singapore University of Technology and Design); Dumitrel Loghin (National University of Singapore); Meihui Zhang (Beijing Institute of Technology)*; Gang Chen (Zhejiang University); Qian Lin (ByteDance); Beng Chin Ooi (NUS). SIGMOD'21      
+ 
+   - Keyword: _`Performance`_, _`Security`_
+
+- 🎓 [When the Recursive Diversity Anonymity Meets the Ring Signature](https://dl.acm.org/doi/10.1145/3448016.3452825). Wangze Ni (Hong Kong University of Science and Technology); Peng CHENG (East China Normal University)*; Lei Chen (Hong Kong University of Science and Technology); Xuemin Lin (University of New South Wales). SIGMOD'21
+  
+   - Keyword: _`RS`_
+
+- 🎓 [Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives](https://dl.acm.org/doi/pdf/10.1145/3448016.3457285). YUMING HUANG (National University of Singapore); Jing Tang (National University of Singapore)*; Qianhao Cong (National University of Singapore); Andrew Lim (National University of Singapore); Jianliang Xu (Hong Kong Baptist University). SIGMOD'21        
+  
+   - Keyword: _`Consensus`_, _`Fairness`_, _`PoS`_
+
+- 🎓 [Why Do My Blockchain Transactions Fail? A Study of Hyperledger Fabric](https://arxiv.org/pdf/2103.04681.pdf). Jeeta Ann Chacko (Technical University of Munich)*; Ruben Mayer (Technical University of Munich); Hans-Arno Jacobsen (TUM). SIGMOD'21   
+  
+   - Keyword: _`Benchmarking`_
+
+- 🎓 [SharPer: Sharding Permissioned Blockchains Over Network Clusters](https://dl.acm.org/doi/pdf/10.1145/3448016.3452807). Mohammad Javad Amiri (University of Pennsylvania)*; Divy Agrawal (University of California, Santa Barbara); Amr El Abbadi (UC Santa Barbara). SIGMOD'21
+
+  - Keyword: _`Sharding`_, **SharPer**
+
+- 🎓 [A Byzantine Fault Tolerant Storage for Permissioned Blockchain](https://dl.acm.org/doi/10.1145/3448016.3452744). Xiaodong Qi (East China Normal University, Shanghai, China), Zhihao Chen (East China Normal University, Shanghai, China), Zhao Zhang (East China Normal University, Shanghai, China), Cheqing Jin (East China Normal University, Shanghai, China), Aoying Zhou (East China Normal University, Shanghai, China), Haizhen Zhuo (Ant Group, Hangzhou, China), and Quangqing Xu (Ant Group, Hangzhou, China). SIGMOD'21   
+  
+   - Keyword: _`Storage`_
+   - Type: _`Short Paper`_
+
+- 🎓 [Permissioned Blockchains: Properties, Techniques and Applications](https://dl.acm.org/doi/pdf/10.1145/3448016.3457539). Mohammad Javad Amiri, Divyakant AGRAWAL, and  Amr El-Abbadi (University of California, Santa Barbara, Santa Barbara, CA, USA). SIGMOD'21         
+
+   - Type: _`Tutorial`_
+
 - 🎓 Confidentiality Support over Financial Grade Consortium Blockchain.
   Ying Yan (Ant Financial Services Group), Changzheng Wei (Ant Financial Services Group), Xuepeng Guo (Ant Financial Services Group), Xuming Lu (Ant Financial Services Group), Xiaofu Zheng (Ant Financial Services Group), Qi Liu (Ant Financial Services Group), Chenhui Zhou (Ant Financial Services Group), Xuyang Song (Ant Financial Services Group), Boran Zhao (Ant Financial Services Group), Hui Zhang (Ant Financial Services Group), Guofei Jiang (Ant Financial Services Group). SIGMOD'20
 
@@ -1321,7 +1400,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [FalconDB: Blockchain-based Collaborative Database](http://www.cs.utah.edu/~lifeifei/papers/falcondb.pdf). Yanqing Peng (University of Utah), Min Du (University of California, Berkeley), Feifei Li (University of Utah), Raymond Cheng (University of California, Berkeley), Dawn Song (University of California, Berkeley). SIGMOD'20
 
-  - Keyword: _`Application`_
+  - Keyword: _`Applications`_
 
 - 🎓 [A Transactional Perspective on Execute-order-validate Blockchains](https://arxiv.org/pdf/2003.10064.pdf). Pingcheng Ruan (National University of Singapore), Dumitrel Loghin (National University of Singapore), Quang-Trung Ta (National University of Singapore), Meihui Zhang (Beijing Institute of Technology), Gang Chen (Zhejiang University), Beng Chin Ooi (National University of Singapore). SIGMOD'20
 
@@ -1356,6 +1435,35 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 ## ASE (A)
 
+- 🎓 [Identifying Solidity Smart Contract API Documentation Errors](https://personal.ntu.edu.sg/yi_li/files/Zhu2022ISS.pdf). Jianzhong Su (Sun Yat-sen University), Hong-Ning Dai (Hong Kong Baptist University), Chenguang Zhu (The University of Texas at Austin), Ye Liu (Nanyang Technological University), Xiuheng Wu (Nanyang Technological University, Singapore), Yi Li (Nanyang Technological University, Singapore). ASE'22      
+  
+   - Keyword: _`API`_
+
+- 🎓 [Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing](https://dl.acm.org/doi/abs/10.1145/3551349.3560429). Jianzhong Su (Sun Yat-sen University), Hong-Ning Dai (Hong Kong Baptist University), Lingjun Zhao (Sun Yat-sen University), Zibin Zheng (School of Data and Computer Science, Sun Yat-sen University), Xiapu Luo (Hong Kong Polytechnic University). ASE'22
+  
+   - Keyword: _`Vulnerability Detection`_
+
+- 🎓 [Characterizing Transaction-Reverting Statements in Ethereum Smart Contracts](https://arxiv.org/pdf/2108.10799.pdf). Lu Liu (Southern University of Science and Technology; The Hong Kong University of Science and Technology), Lili Wei (Hong Kong University of Science and Technology), Wuqi Zhang (The Hong Kong University of Science and Technology), Ming Wen (Huazhong University of Science and Technology), Yepang Liu (Southern University of Science and Technology), Shing-Chi Cheung (Hong Kong University of Science and Technology). ASE'21
+  
+   - Keyword: _`Empirical`_
+
+- 🎓 [SigRec: Automatic Recovery of Function Signatures in Smart Contracts](https://www4.comp.polyu.edu.hk/~csxluo/SigRec.pdf). Ting Chen (University of Electronic Science and Technology of China), Zihao Li (The Hong Kong Polytechnic University), Xiapu Luo (Hong Kong Polytechnic University), XiaoFeng Wang (Indiana University Bloomington), Ting Wang (Penn State University), Hongwei Li (University of Electronic Science and Technology of China), Xiaosong Zhang (University of Electronic Science and Technology of China). ASE'21           
+  
+   - Keyword: _`System`_, _`Signature`_ **SigRec**
+
+- 🎓 [SMARTIAN : Enhancing Smart Contract Fuzzing with Static and Dynamic Data-Flow Analyses](https://softsec.kaist.ac.kr/~sangkilc/papers/choi-ase2021.pdf). Jaeseung Choi (KAIST), Doyeon Kim (LINE Plus Corporation), Soomin Kim (KAIST), Gustavo Grieco (Trail of Bits), Alex Groce (Northern Arizona University), Sang Kil Cha (KAIST, South Korea). ASE'21        
+  
+  - Keyword: _`Fuzzing`_, **SMARTIAN**
+
+- 🎓 [Automating User Notice Generation for Smart Contract Functions](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7840&context=sis_research). Xing Hu (Zhejiang University), Zhipeng Gao (Monash University), Xin Xia (Huawei Software Engineering Application Technology Lab), David Lo (Singapore Management University), Xiaohu Yang (Zhejiang University). ASE'21   
+  
+  - Keyword: _`System`_
+
+- 🎓 [Gas Estimation and Optimization for Smart Contracts on Ethereum](https://www.dropbox.com/s/rssc9yqaiwanmzn/camera%20ready%20submitted.pdf?dl=0).  Chunmiao Li(National Institute of Informatics). ASE'21
+
+  - Keyword: _`Gas Estimation`_
+  - Type: _`Doctoral Symposium`_
+
 - 🎓 [Demystifying Loops in Smart Contracts](https://fredfeng.github.io/papers/ase20-consul.pdf).
   Benjamin Mariano (University of Texas at Austin), Yanju Chen (University of California, Santa Barbara), Yu Feng (University of California, Santa Barbara), Shuvendu K. Lahiri (Microsoft Research), and Isil Dillig (University of Texas at Austin). ASE'20
 
@@ -1373,6 +1481,10 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
   - Type: **EXPRESS**, _`Tool`_
 
 ## ICSE (A)
+
+- 🎓 [Utilizing Parallelism in Smart Contracts on Decentralized Blockchains by Taming Application-Inherent Conflicts](https://arxiv.org/pdf/2201.03749.pdf). Péter Garamvölgyi (Shanghai Tree-Graph Blockchain Research Institute), Yuxi Liu (Duke University), Dong Zhou (Tsinghua University), Fan Long (Shanghai Tree-Graph Blockchain Research Institute), and Ming Wu (Shanghai Tree-Graph Blockchain Research Institute). ICSE'22  
+  
+  - Keyword: _`Parallelism`_
 
 - 🎓 [Smart Contract Security: a Practitioners’ Perspective](https://arxiv.org/pdf/2102.10963.pdf). hiyuan Wan (ZheJiang University, China), Xin Xia (Monash University, Australia), David Lo (Singapore Management University, Singapore), Jiachi Chen (Monash University, Australia), Xiapu Luo (The Hong Kong Polytechnic University, China), Xiaohu Yang(Zhejiang University, China)
   - Keyword: _`Smart Contract`_
