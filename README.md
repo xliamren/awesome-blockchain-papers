@@ -294,6 +294,26 @@ Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad, The Hebrew University of 
   - Keyword: _`Marketplaces`_
 
 ## S&P (A)
+- 🎓 [TokenWeaver: Privacy Preserving and Post-Compromise Secure Attestation](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a093/22K50p9xTKo).C. Cremers, G. Horowitz , C. Jacomme and E. Ronen. S&P'25.
+  
+  - Keyword: _`TEE`_, _`attacks`_
+
+- 🎓 [Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a042/21B7QvjJ9Ty).M. Y. Guan et al. S&P'25.
+  
+  - Keyword: _`cryptocurrency`_, _`stablecoins`_
+
+- 🎓 [P2C2T: Preserving the Privacy of Cross-Chain Transfer](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a051/21B7QYE5x8Q).P. Han, Z. Yan, L. T. Yang and E. Bertino. S&P'25.
+  
+  - Keyword: _`interoperability`_, _`privacy`_
+
+- 🎓 [BadRAM: Practical Memory Aliasing Attacks on Trusted Execution Environments](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a104/22K50zzAVNe).J. De Meulemeester et al. S&P'25.
+  
+  - Keyword: _`TEE`_, _`attacks`_
+
+- 🎓 [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a061/21B7R6HnWWk).W. Ding, Y. Tang and Y. Wang. S&P'25.
+  
+  - Keyword: _`mempool`_, _`attacks`_
+
 - 🎓 [BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts](https://eprint.iacr.org/2022/1735.pdf).Qin X, Pan S, Mirzaei A, et al. S&P'23.
   
   - Keyword: _`Blind Signature`_, _`payment channel`_
